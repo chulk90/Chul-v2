@@ -3,7 +3,7 @@
 	
 	// wait a second to simulate a some latency
 usleep(500000);
-$to = "youremail@yourdomain.com"; // set your email here
+$to = "chulk90@gmail.com"; // set your email here
 $author = "";
 $email = "";
 $comment = "";
